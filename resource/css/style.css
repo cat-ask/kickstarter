@@ -153,6 +153,12 @@ nav > ul > li > a:hover{
     min-height: 100%;
 }
 
+.highFundInfo{
+    width:50%;
+    min-width:400px;
+    padding:10px 20px;
+}
+
 /* footer */
 footer{
     width: 100%;
